@@ -31,4 +31,4 @@ and can be downloaded from their respective sources.
 - Pair sampling: 20,000 pairs from test set
 
 ## Results
-Pre-computed geometry results are in results/.
+Pre-computed geometry results are in the repo.
